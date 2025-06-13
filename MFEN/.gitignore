@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+.idea
+.pytest_cache
+.coverage
+.coverage.*
+.coverage.*
+venv/
+__pycache__/
+data/uieb_data/challenging-60/*
+data/uieb_data/raw-890/*
+data/uieb_data/reference-890/*
